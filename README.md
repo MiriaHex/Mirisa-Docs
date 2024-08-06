@@ -5,9 +5,9 @@ description: Welcome to HNPS Docs!
 # 👋 欢迎!
 
 {% hint style="info" %}
-Wiki最近活跃日期 | 2024年 8月6日
+Wiki最近活跃日期 | **2024年 8月6日**
 
-Wiki当前版本         | The Begining Update
+Wiki当前版本         | **The Begining Update**
 
 受工作影响，文档更新可能极慢
 {% endhint %}

@@ -14,7 +14,7 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 * [Geyser - Spigot](geyser.md)
 * [InventoryRollBackPlus](inventoryrollbackplus.md)
 * LuckPerms
-* [Slimefun](bu-shi-yong-de-cha-jian-ye-mian/slimefun.md)
+* [Slimefun](slimefun.md)
 * [SkinRestorer](skinrestorer.md)
 * [Residence](residence.md)
 * ViaVersion&#x20;
