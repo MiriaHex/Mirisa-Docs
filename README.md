@@ -5,9 +5,15 @@ description: Welcome to HNPS Docs!
 # 👋 欢迎!
 
 {% hint style="info" %}
-Wiki最近活跃于：8月6日
+Wiki最近活跃日期 | 2024年 8月6日
+
+Wiki当前版本         | The Begining Update
 
 受工作影响，文档更新可能极慢
+{% endhint %}
+
+{% hint style="info" %}
+Wiki正在初步建设阶段，大部分内容未完善，内容仅供参考
 {% endhint %}
 
 Mirisa Project 是多个服务器的组合项目，此项目由HNPS Project迭代而来

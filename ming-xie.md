@@ -10,9 +10,9 @@ Na¹ //本文的策划,也是主要编辑人员
 
 MooranStar //为本文提供了思路引导,拯救了毫无编写头绪的策划
 
-NaOH Technology Lab //提供了域名服务,尽管在本文编辑时尚未完成配置...
+NaOH Technology Lab //提供了域名服务
 
-只因悠悠MC创造服务器 //帮助我们构建了 mcMMO 插件 ，你可以在 [此处](you-qing-lian-jie.md) 找到加入他们的服务器方法
+只因悠悠MC创造服务器 //帮助我们构建了 mcMMO 插件&#x20;
 
 ### 测试人员
 
@@ -21,12 +21,6 @@ Na
 MoonranStar
 
 MuteLy
-
-LyrinYy
-
-Haruyama1204127
-
-xinFurld
 
 ***
 

@@ -12,19 +12,14 @@ description: 下面列出了本服务器所使用的部分插件,排名不分先
 * [eBackup](ebackup.md)
 * [EssentialsX](essentialsx.md)
 * [Geyser - Spigot](geyser.md)
-* Geyser Hack
 * [InventoryRollBackPlus](inventoryrollbackplus.md)
 * LuckPerms
-* [Slimefun](slimefun.md)
+* [Slimefun](bu-shi-yong-de-cha-jian-ye-mian/slimefun.md)
 * [SkinRestorer](skinrestorer.md)
 * [Residence](residence.md)
-* [~~toNeko~~](#user-content-fn-1)[^1]
-* Vault
 * ViaVersion&#x20;
 * ViaBackwards
 * WorldEdit
 * MarriageMaster
 
 上述所提及的插件部分使用方式将在之后的章节展示
-
-[^1]: 已移除（投票）
