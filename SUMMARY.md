@@ -27,8 +27,8 @@
 * [🗑️ 已移除插件的页面](cha-jian/yi-yi-chu-cha-jian-de-ye-mian/README.md)
   * [toNeko](cha-jian/yi-yi-chu-cha-jian-de-ye-mian/toneko.md)
 * [⏱️ 不适用的插件页面](cha-jian/bu-shi-yong-de-cha-jian-ye-mian/README.md)
-  * [ChatColor](cha-jian/chatcolor.md)
-  * [Slimefun](cha-jian/slimefun.md)
+  * [ChatColor](cha-jian/bu-shi-yong-de-cha-jian-ye-mian/chatcolor.md)
+  * [Slimefun](cha-jian/bu-shi-yong-de-cha-jian-ye-mian/slimefun.md)
 
 ***
 
