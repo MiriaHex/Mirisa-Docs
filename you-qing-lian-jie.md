@@ -17,11 +17,3 @@
 ## 翻译工具
 
 \|    [DeepL ](https://www.deepl.com)   |    [Google翻译](https://translate.google.com/)    |    [百度翻译](https://fanyi.baidu.com/)    |
-
-***
-
-## 加入  只因悠悠MC创造服务器&#x20;
-
-加入 他们的QQ群以了解详细信息
-
-非商业广告，谨此对帮助构建mcMMO插件表以感谢
