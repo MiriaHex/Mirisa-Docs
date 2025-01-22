@@ -4,7 +4,7 @@ description: Welcome to Mirisa Docs!
 
 # 👋 欢迎!
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Wiki最近活跃日期 | **2024年 12月8日**
 
 Wiki当前版本         | **The Begining Update**
@@ -15,7 +15,15 @@ Wiki当前状态         | **Update Stoped**
 
 新的项目已发起，该项目作为Mirisa Project的替代品，同时也是HNPS Alpha的延续品
 
-查看新项目请转到 ReDream Docs
+查看新项目请转到 IntEternal Docs
+{% endhint %}
+
+{% hint style="warning" %}
+**此文档可能需要加速器以正常访问**
+
+受服务提供方因素，在此文档目标阅读者的地区（中国）可能在常规网络条件下**加载缓慢**
+
+您可能需要**网络加速器**以正常浏览本文档
 {% endhint %}
 
 Mirisa Project 是多个服务器的组合项目，此项目由HNPS Project迭代而来
